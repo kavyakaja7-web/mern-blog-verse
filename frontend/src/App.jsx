@@ -1,6 +1,7 @@
 
 import Navbar from "./Navbar"
 import Signup from "./Signup"
+import Signin from "./Signin"
 
 function App() {
   
@@ -9,7 +10,8 @@ function App() {
     
       <div className="">
         <Navbar/>
-        <Signup/>
+        {/* <Signup/> */}
+        <Signin/>
         </div>
         
   )

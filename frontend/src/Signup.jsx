@@ -48,8 +48,8 @@ const Signup =() =>
                 <div className="border-[0.5px] border-gray-500 w-[90%]">
 
                 </div>
-             
-                <p className="text-gray-700 font-semibold">Already have an account?<span className="text-purple-500">Sign in here</span></p>
+             <p className="text-gray-700 font-semibold">Already have an account?<span className="text-purple-500">Sign in her
+                e</span></p>
                 <button className="font-semibold text-gray-700 rounded-xl w-[90%] py-4 cursor-pointer hover:bg-gray-200"> Back to home</button>
             </form>
         </div>
